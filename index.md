@@ -1,5 +1,5 @@
 ---
-Welcome to Fizy's blog, Happy Reading...
+Welcome to Fizy's blog...
 ---
 
 This is my Personal Blog depoloyed with Github Pages.
